@@ -1,2 +1,1 @@
-# sample-blog
-A template for sample blog.
+# The Code Bay blog
