@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Make Your Own Blog. As a Developer."
+title: "How To Make Your Own Blog (As a Developer)"
 author: Mikołaj Korbanek
 date: 2022-11-20
 ---
