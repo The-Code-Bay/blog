@@ -15,11 +15,11 @@ In our series, we will explore the benefits of code reviews, the steps involved 
 
 A code review is an important process in software development that involves carefully reviewing and evaluating code written by a colleague or team member. The goal of a code review is to identify any potential issues or improvements that can be made to the code, and to ensure that it meets the standards and requirements of the project.
 
-[Read more here]({% post_url 2022-12-15-Why-are-code-reviews-important %})
-
 ## Why are code reviews important?
 
 Code reviews are an essential part of the software development process, as they help to ensure the quality and reliability of the code that is being developed. By reviewing each other's code, team members can learn from one another, share best practices, and improve their skills.
+
+[Read more here]({% post_url 2022-12-15-Why-are-code-reviews-important %})
 
 ## What happens during a code review?
 
