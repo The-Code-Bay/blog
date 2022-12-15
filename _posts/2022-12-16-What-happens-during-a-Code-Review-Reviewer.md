@@ -4,6 +4,7 @@ title: "[006] What happens during a code review? (Reviewer perspective)"
 author: Mikołaj Korbanek
 date: 2022-12-16
 ---
+
 Welcome in, the next article in our series about Code review. In this blog post, we will talk what to expect when you have to attend a code review as a reviewer.
 
 There are serial points that are going to happen. Let's start with it!
