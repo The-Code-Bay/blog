@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why are code reviews important?"
+title: "[002] Why are code reviews important?"
 author: Mikołaj Korbanek
 date: 2022-12-15
 ---
@@ -31,6 +31,4 @@ Code reviews can also help team members gain a better understanding of the codeb
 
 ## Conclusion
 
-Overall, code reviews are an essential part of the software development process, and can provide many benefits to both individuals and teams. By conducting regular code reviews, you can improve the quality of your code, enhance collaboration among team members, and increase the maintainability of your codebase.
-
-
+Overall, code reviews are an essential part of the software development process, and can provide many benefits to both individuals and teams. By conducting regular code reviews, you can improve the quality of your code, enhance collaboration among team members, and increase the maintainability of your codebase. 
