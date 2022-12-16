@@ -7,7 +7,7 @@ date: 2022-12-15
 
 Welcome in the next article in our series about Code review.
 
-In our [first post]({% post_url 2022-12-14-The-Importance-of-Code-Review %}) we gave you a short introduction to the concept of code review. In this blog post we will discuss **"Why are code reviews important?"** 
+In our [first post]({% post_url 2022-12-14-1-The-Importance-of-Code-Review %}) we gave you a short introduction to the concept of code review. In this blog post we will discuss **"Why are code reviews important?"** 
 
 Code reviews are an important part of the software development process because they help ensure the quality and correctness of the code that is being written. This is especially important in large development teams, where multiple people may be working on the same codebase at the same time.
 

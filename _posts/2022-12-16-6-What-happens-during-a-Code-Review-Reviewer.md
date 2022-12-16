@@ -20,7 +20,7 @@ There are two approaches:
 
 ### Online tool
 
-Code review tools can be a valuable asset for reviewers, as they provide a convenient way to view the code and leave comments. If you don't know any app, you can check out our [previous post]({% post_url 2022-12-15-Tools-and-Platforms-for-Enhanced-Collaboration-in-Code-Review %}). This can be especially useful for reviewers who may be working remotely or on a different machine than the one with the code checked out.
+Code review tools can be a valuable asset for reviewers, as they provide a convenient way to view the code and leave comments. If you don't know any app, you can check out our [previous post]({% post_url 2022-12-15-4-Tools-and-Platforms-for-Enhanced-Collaboration-in-Code-Review %}). This can be especially useful for reviewers who may be working remotely or on a different machine than the one with the code checked out.
 
 Using these web-based code review tools, reviewers can easily view the code and its changes, leave comments and suggestions, and collaborate with the original developer to ensure that the code is of high quality. Additionally, many code review tools also provide features such as code highlighting and automatic error checking, which can help reviewers identify potential issues more quickly and easily.
 
