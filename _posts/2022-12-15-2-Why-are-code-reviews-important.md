@@ -3,6 +3,7 @@ layout: post
 title: "[002] Why are code reviews important?"
 author: Mikołaj Korbanek
 date: 2022-12-15
+tags: CodeReview
 ---
 
 Welcome in the next article in our series about Code review.

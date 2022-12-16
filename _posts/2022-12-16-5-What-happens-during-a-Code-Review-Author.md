@@ -3,6 +3,7 @@ layout: post
 title: "[005] What happens during a code review? (Author perspective)"
 author: Mikołaj Korbanek
 date: 2022-12-16
+tags: CodeReview
 ---
 
 Welcome in, the next article in our series about Code review. In this blog post, we will talk what to expect when you have to attend a code review as an author.

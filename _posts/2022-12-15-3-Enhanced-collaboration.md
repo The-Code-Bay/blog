@@ -3,6 +3,7 @@ layout: post
 title: "[003] Benefits of Enhanced Collaboration in Code Review"
 author: Mikołaj Korbanek
 date: 2022-12-15
+tags: CodeReview
 ---
 
 Welcome in, the 3rd article in our series about Code review. We've learned so far why code review is important. In this post I would like to take a closer look on how we all can benefit from it.

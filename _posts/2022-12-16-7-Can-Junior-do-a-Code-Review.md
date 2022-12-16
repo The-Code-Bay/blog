@@ -3,6 +3,7 @@ layout: post
 title: "[007] Can Junior Developer Do a Code Review?"
 author: Mikołaj Korbanek
 date: 2022-12-16
+tags: CodeReview
 ---
 
 Welcome in, the next article in our series about Code review. In this article I would like to touch on the topic of whether a junior developer can do code review.

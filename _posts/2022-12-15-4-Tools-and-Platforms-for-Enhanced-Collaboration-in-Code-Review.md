@@ -3,6 +3,7 @@ layout: post
 title: "[004] Tools and Platforms for Enhanced Collaboration in Code Review"
 author: Mikołaj Korbanek
 date: 2022-12-15
+tags: CodeReview
 ---
 
 Welcome in, the 4th article in our series about Code review. In this blog post, you will learn about some tools that can help you make a code review a better experience for everyone.

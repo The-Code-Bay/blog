@@ -3,6 +3,7 @@ layout: post
 title: "[001] The Importance of Code Reviews in Software Development"
 author: Mikołaj Korbanek
 date: 2022-12-14
+tags: CodeReview
 ---
 
 Welcome to our series on code reviews! In this series, we will be discussing the importance of code reviews in the software development process, and how they can help to ensure the quality and reliability of the code being developed.
