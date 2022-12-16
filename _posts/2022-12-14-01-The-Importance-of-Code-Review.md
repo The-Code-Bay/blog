@@ -20,14 +20,14 @@ A code review is an important process in software development that involves care
 
 Code reviews are an essential part of the software development process, as they help to ensure the quality and reliability of the code that is being developed. By reviewing each other's code, team members can learn from one another, share best practices, and improve their skills.
 
-[Read more here]({% post_url 2022-12-15-2-Why-are-code-reviews-important %})
+[Read more here]({% post_url 2022-12-15-02-Why-are-code-reviews-important %})
 
 ## What happens during a code review?
 
 During a code review, the code is carefully examined by one or more team members who are familiar with the project and the programming languages being used. The reviewers will look for issues such as syntax errors, logical errors, performance issues, and security vulnerabilities. They will also assess the overall structure and design of the code, and make suggestions for improvements.
 
-[Author perspective]({% post_url 2022-12-16-5-What-happens-during-a-Code-Review-Author %})   
-[Reviewer perspective]({% post_url 2022-12-16-6-What-happens-during-a-Code-Review-Reviewer %})
+[Author perspective]({% post_url 2022-12-16-05-What-happens-during-a-Code-Review-Author %})   
+[Reviewer perspective]({% post_url 2022-12-16-06-What-happens-during-a-Code-Review-Reviewer %})
 
 ## How do code reviews improve collaboration and communication?
 

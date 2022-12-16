@@ -28,4 +28,4 @@ Furthermore, enhanced collaboration in code review can help to improve team mora
 
 Overall, enhanced collaboration in code review offers numerous benefits for software development teams. By involving multiple developers in the code review process and using the right tools and platforms, teams can identify and fix errors more quickly, share knowledge and best practices, promote a sense of ownership and accountability, and improve team morale and collaboration. As a result, teams can develop high-quality software more efficiently and effectively.
 
-You can [read here]({% post_url 2022-12-15-4-Tools-and-Platforms-for-Enhanced-Collaboration-in-Code-Review %}) about tools that can makie this better.
+You can [read here]({% post_url 2022-12-15-04-Tools-and-Platforms-for-Enhanced-Collaboration-in-Code-Review %}) about tools that can makie this better.

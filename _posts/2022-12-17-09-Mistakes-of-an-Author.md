@@ -5,7 +5,7 @@ author: Mikołaj Korbanek
 date: 2022-12-17
 tags: CodeReview
 ---
-Welcome in, the **9th** article in our series about Code review. In the [previous post]({% post_url 2022-12-17-8-Mistakes-of-a-Reviewer %}) we described the mistakes of the reviewer. Here we will talk about what the author should watch out for.
+Welcome in, the **9th** article in our series about Code review. In the [previous post]({% post_url 2022-12-17-08-Mistakes-of-a-Reviewer %}) we described the mistakes of the reviewer. Here we will talk about what the author should watch out for.
 
 As an author of a code review, it's important to take care to avoid common mistakes that can hinder the review process and cause frustration for both the reviewer and the team. Here are some common mistakes to watch out for:
 
